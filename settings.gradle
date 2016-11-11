@@ -1,0 +1,5 @@
+rootProject.name = 'SpringMVC'
+include 'web'
+include 'common'
+include 'server'
+
